@@ -1,0 +1,21 @@
+{
+    "logo": {
+        "text": "DeadCode9x",
+        "font": "Brush Script MT",
+        "size": 90,
+        "color": "FireBrick"
+    },
+    "pdf_settings": {
+        "page_format": "A4",
+        "font": "Arial",
+        "font_size": 12,
+        "margin": 10
+    },
+    "header": {
+        "text": "Document Header",
+        "font": "Arial",
+        "style": "B",
+        "size": 12,
+        "align": "C"
+    }
+}
